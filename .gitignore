@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+
+# Build
+public/res/*.eot
+public/res/*.svg
+public/res/*.png
+public/res/*.ttf
+public/res/*.woff
+public/res/*.woff2
+public/bundle.js
+public/*.hot-update.js
+public/*.hot-update.json

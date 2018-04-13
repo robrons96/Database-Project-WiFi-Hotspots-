@@ -1,0 +1,18 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "node": "8.5"
+      }
+    }],
+    "react"
+  ],
+  "plugins": [
+    ["lodash", {
+      "id": [
+        "lodash",
+        "semantic-ui-react"
+      ]
+    }]
+  ]
+}
