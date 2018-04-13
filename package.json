@@ -9,6 +9,7 @@
     "dev": "webpack-dev-server --env=dev"
   },
   "dependencies": {
+    "google-maps-react": "^2.0.0",
     "immutable": "^3.8.2",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",

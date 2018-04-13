@@ -15,7 +15,7 @@ class Header extends React.Component {
   render() {
     return (
       <div>`
-      <Search/>
+      <Search size='large' style = { { float: "left", paddingTop: "20px"} } />
       </div>
     );
   }
