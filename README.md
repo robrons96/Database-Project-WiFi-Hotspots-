@@ -1,6 +1,6 @@
 # **Database-Project-WiFi-Hotspots**
 ### Purpose
-* Develop a better way of finding free public WiFi connection which takes advantage of Open Data
+* Develop a better way of locating free public WiFi connection by takeing advantage of Open Data
 ### Challenges
 * Filtering out multiple datapoints for the same coordinates
 ### Result
